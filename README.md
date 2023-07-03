@@ -1,1 +1,1 @@
-# hello_git2
+# hello_git2, first github project
